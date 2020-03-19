@@ -52,7 +52,7 @@ nav li a:hover {
 }
 
 header {
-    background-image: url('/images/hero-image-adjusted.jpg');
+    background-image: url('../images/hero-image-adjusted.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
